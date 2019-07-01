@@ -1,5 +1,5 @@
 ---
-title: "NewTitle"
+title: "titleforconflit"
 output: html_document
 ---
 
