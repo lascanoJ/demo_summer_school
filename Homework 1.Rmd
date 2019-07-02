@@ -8,10 +8,9 @@ output: html_document
 ### Date : `r Sys.time()` 
 
 # Introduction
-_Insert Homework Structure Here_
+This is the Geneva Summer School on R for data science! Here we practice on how to make awesome reports with Rmarkdown... Just look at the result...
 
-_Insert Random Video Link Here_
-
+<iframe width='560' height='315' src='https://www.youtube.com/watch?v=sjkUqyyQ0xU&list=PLFzL8rgahslahw6H569MSEb-Tz8ZVBREp.html' frameborder='0' allowfullscreen></iframe>
 # Group Members
 
 
