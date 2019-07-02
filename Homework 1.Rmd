@@ -1,0 +1,38 @@
+---
+title: "Homework 1"
+output: html_document
+---
+
+### Authors :
+
+### Date : `r Sys.time()` 
+
+# Introduction
+_Insert Homework Structure Here_
+
+_Insert Random Video Link Here_
+
+# Group Members
+
+
+
+## Group Member 1
+Some info
+
+## Group Member 2
+
+Some other info
+
+
+## Group Member 3
+
+Some more info
+
+
+Classes Taken | Time of Class
+--- | --- |
+R-Programming for Data Science | 9 AM
+Random Class 1 | 11 AM
+Arbitrary Class | 2 PM
+
+# R-Markdown Syntax
