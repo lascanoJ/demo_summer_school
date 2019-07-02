@@ -60,6 +60,10 @@ hist(X)
 ```
 
 
+𝔼[var{v1(θ̂,n)∣∣θ̂}] = var{v1(θ0,n)}+𝔼[Op{D1(θ∗,n)(θ̂−θ0),…,Dp(θ∗,n)(θ−θ0)}]
+                   = var{v1(θ0,n)}+O(n−2).
+
+
 “Vérité dans un temps, erreur dans un autre.”, Charles de Montesquieu
 
 
