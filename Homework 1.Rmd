@@ -35,7 +35,8 @@ Arbitrary Class | 2 PM
 
 # Introduction
 1. Information about our group members
-2. 
+2. A summary of RMarkdown skills
+3. References
 
 <iframe width='560' height='315' src='https://www.youtube.com/embed/WpE_xMRiCLE' frameborder='0' allowfullscreen></iframe>
 
